@@ -4,6 +4,7 @@ using namespace std;
 
 //Number
 //[][][][] -> 100
+//이건 에러
 
 int main()
 {
